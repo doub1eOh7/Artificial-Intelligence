@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-Assignments for Artificial Intelligence Course
+Backups for Artificial Intelligence Course
